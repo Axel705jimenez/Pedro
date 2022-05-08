@@ -1,0 +1,11 @@
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\bin\Debug\Pedro.exe.config
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\bin\Debug\Pedro.exe
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\bin\Debug\Pedro.pdb
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\obj\Debug\Pedro.csprojAssemblyReference.cache
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\obj\Debug\Pedro.Form1.resources
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\obj\Debug\Pedro.Properties.Resources.resources
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\obj\Debug\Pedro.csproj.GenerateResource.cache
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\obj\Debug\Pedro.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\obj\Debug\Pedro.exe
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\obj\Debug\Pedro.pdb
+C:\Users\Jesus\Source\Repos\Pedro\Pedro\obj\Debug\Pedro.Minecraft.resources
