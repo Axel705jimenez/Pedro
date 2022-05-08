@@ -16,7 +16,7 @@ namespace Pedro
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Minecraft());
+            Application.Run(new Form1());
         }
     }
 }
